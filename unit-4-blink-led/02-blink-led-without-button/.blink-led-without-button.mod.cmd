@@ -1,0 +1,1 @@
+cmd_/home/duc/workspace/summarize-linux/unit-4-blink-led/02-blink-led-without-button/blink-led-without-button.mod := { echo  /home/duc/workspace/summarize-linux/unit-4-blink-led/02-blink-led-without-button/blink-led-without-button.o;  echo; } > /home/duc/workspace/summarize-linux/unit-4-blink-led/02-blink-led-without-button/blink-led-without-button.mod
